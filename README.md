@@ -1,5 +1,7 @@
 # Test Markup by MarkDown
 
+http://tinylab.gitbooks.io/cbook/content/
+
 虽然啊 MarkdownPreviewPlus 这个东西能3s钟reload一次，但是啊支持的路径好像少个反斜杠。只好本地开了个node的http-server。 ORZ
 
 http://railstutorial-china.org/book/chapter2.html
