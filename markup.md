@@ -38,4 +38,6 @@ http://www.html5rocks.com/en/tutorials/webrtc/basics/
 
 http://ionicframework.com/getting-started/
 
+https://blog.engineyard.com/2015/integrating-react-with-backbone
+
 
